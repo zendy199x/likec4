@@ -1,5 +1,20 @@
 # likec4
 
+## 1.53.1
+
+### Patch Changes
+
+- [#2782](https://github.com/likec4/likec4/pull/2782) [`d0f38c7`](https://github.com/likec4/likec4/commit/d0f38c7422a4b46879ab744e514ea4d70f546e05) Thanks [@davydkov](https://github.com/davydkov)! - Add LikeC4 DSL Agent Skill enabling AI agents to write correct LikeC4 code without hallucinating syntax, resolves [#2636](https://github.com/likec4/likec4/issues/2636)
+
+  To install LikeC4 skills into any project:
+
+  ```bash
+  npx skills add https://likec4.dev/
+  ```
+
+- Updated dependencies []:
+  - @likec4/core@1.53.1
+
 ## 1.53.0
 
 ### Minor Changes
